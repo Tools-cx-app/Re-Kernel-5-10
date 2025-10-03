@@ -47,6 +47,8 @@
 #define NETLINK_REKERNEL_MIN     		22
 #define USER_PORT        				100
 #define PACKET_SIZE 					256
+#define KERNEL_5_10
+
 int netlink_count = 0;
 char netlink_kmsg[PACKET_SIZE];
 struct sock *netlink_socket = NULL;
