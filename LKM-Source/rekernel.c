@@ -20,7 +20,7 @@
 #include "rekernel.h"
 #include <trace/hooks/binder.h>
 #include <trace/hooks/signal.h>
-#include <../../android/binder_internal.h>
+#include <android/binder_internal.h>
 #include <linux/string.h>
 #include <linux/init.h>
 #include <linux/types.h>
