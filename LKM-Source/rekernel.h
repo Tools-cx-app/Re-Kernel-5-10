@@ -20,6 +20,7 @@
 #define PARCEL_OFFSET                   (16) /* sync with the writeInterfaceToken */
 #define LINE_ERROR                      (-1)
 #define LINE_SUCCESS                    (0)
+#define NETWORK_FILTER
 #define KERNEL_5_10
 
 #endif
